@@ -3,13 +3,14 @@
 <!-- ### Hi there 👋 -->
 <h3>👩🏻PROFILE</h3>
 💌Contact: dldmswls0910@naver.com
+📒Blog: https://ej-development-note.tistory.com/
 <br><br>
 
 <h3>👩🏻‍💻TECHS</h3>
 <p>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" style="width:auto; height:20px;" />
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" style="width:auto; height:20px;"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" style="width:auto; height:20px;"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" style="width:auto; height:20px;"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" style="width:auto; height:20px;"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"  style="width:auto; height:20px;"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" style="width:auto; height:20px;"/>
