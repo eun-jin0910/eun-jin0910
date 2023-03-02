@@ -2,7 +2,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=b9d7ea&height=300&section=header&text=welcome&fontColor=ffffff&fontSize=90" />
 <!-- ### Hi there 👋 -->
 <h3>👩🏻PROFILE</h3>
-💌Contact: dldmswls0910@naver.com
+💌Contact: dldmswls0910@naver.com 
+<br>
 📒Blog: https://ej-development-note.tistory.com/
 <br><br>
 
