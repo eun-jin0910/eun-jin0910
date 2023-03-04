@@ -4,8 +4,8 @@
 <h3>👩🏻PROFILE</h3>
 💌Contact: dldmswls0910@naver.com 
 <br>
-<!-- 📝Blog:  -->
-<br><br>
+<!-- 📝Blog:  <br>-->
+<br>
 
 <h3>👩🏻‍💻TECHS</h3>
 <p>
