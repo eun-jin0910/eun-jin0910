@@ -22,8 +22,8 @@
 <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=AdobeIllustrator&logoColor=white" style="width:auto; height:20px;"/>
 </p>
 <br><br>
-<!-- 
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eun-jin0910&count_private=true&hide=contribs,prs&show_icons=true)
 ](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eun-jin0910&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eun-jin0910&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 </div>
