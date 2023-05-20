@@ -1,5 +1,7 @@
-<div align="center"></div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=b9d7ea&height=300&section=header&text=welcome&fontColor=ffffff&fontSize=90" />
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=b9d7ea&height=280&section=header&text=welcome&fontColor=ffffff&fontSize=90&fontAlignY=44" />
+
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=C7C1FF&height=250&fontSize=80&text=welcome&fontAlignY=35&fontColor=ffffff&desc=doyeon's%20GitHub%20Profile&descSize=30&descAlignY=55) -->
 <!-- ### Hi there 👋 -->
 <h3>👩🏻PROFILE</h3>
 💌Contact: dldmswls0910@naver.com 
@@ -20,8 +22,9 @@
 <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=AdobeIllustrator&logoColor=white" style="width:auto; height:20px;"/>
 </p>
 <br><br>
-
+<!-- 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eun-jin0910&count_private=true&hide=contribs,prs&show_icons=true)
 ](https://github.com/anuraghazra/github-readme-stats)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eun-jin0910&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eun-jin0910&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+<br>
+</div>
