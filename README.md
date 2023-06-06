@@ -22,9 +22,9 @@ https://ej-development-note.tistory.com/
   
 <h3>📊 GitHub Stats 📊</h3>
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eun-jin0910&count_private=true&hide=contribs,prs&show_icons=true)
-](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eun-jin0910&count_private=true&hide=contribs,prs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eun-jin0910&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feun-jin0910&count_bg=%23B9D7EA&title_bg=%23555555&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 
