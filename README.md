@@ -8,11 +8,14 @@ https://ej-development-note.tistory.com/
 <h3>🛠 Tech Stack 🛠</h3>
 <p>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" style="width:auto; height:20px;" />
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white" style="width:auto; height:20px;"/>
+<img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat&logo=springboot&logoColor=white" style="width:auto; height:20px;"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" style="width:auto; height:20px;"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white" style="width:auto; height:20px;"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" style="width:auto; height:20px;"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"  style="width:auto; height:20px;"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" style="width:auto; height:20px;"/><br>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" style="width:auto; height:20px;"/>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white" style="width:auto; height:20px;"/>
+<br>
 <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=Sourcetree&logoColor=white">
@@ -22,9 +25,8 @@ https://ej-development-note.tistory.com/
   
 <h3>📊 GitHub Stats 📊</h3>
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eun-jin0910&count_private=true&hide=contribs,prs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eun-jin0910&count_private=true&hide=prs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eun-jin0910&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feun-jin0910&count_bg=%23B9D7EA&title_bg=%23555555&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 
