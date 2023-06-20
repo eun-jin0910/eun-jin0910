@@ -16,8 +16,8 @@ https://ej-development-note.tistory.com/
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" style="width:auto; height:20px;"/>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white" style="width:auto; height:20px;"/>
 <br>
-<img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white">
 <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=Sourcetree&logoColor=white">
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=AdobePhotoshop&logoColor=white" style="width:auto; height:20px;"/>
 <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=AdobeIllustrator&logoColor=white" style="width:auto; height:20px;"/>
